@@ -1,0 +1,30 @@
+{
+  "name": "api-serverless-aws",
+  "version": "1.0.0",
+  "description": "Desafio para o Bootcamp AWS da DIO",
+  "main": "src/hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vittao/bootcamp-aws-desafio.git"
+  },
+  "keywords": [
+    "AWS",
+    "Serverless",
+    "NodeJS",
+    "Lambda",
+    "DynamoDB"
+  ],
+  "author": "Victor Zeni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vittao/bootcamp-aws-desafio/issues"
+  },
+  "homepage": "https://github.com/vittao/bootcamp-aws-desafio#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1381.0",
+    "uuid": "^9.0.0"
+  }
+}
